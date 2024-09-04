@@ -1,2 +1,0 @@
-# cursodjango
-repositotio ejemplo djnago
